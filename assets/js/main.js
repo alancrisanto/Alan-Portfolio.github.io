@@ -65,3 +65,4 @@ screveal.reveal(".profile__info-group", { interval: 100, delay: 700 });
 screveal.reveal(".profile__buttons", { delay: 800 });
 screveal.reveal(".filters__content", { delay: 900 });
 screveal.reveal(".filters", { delay: 1000 });
+screveal.reveal(".profile_github", { delay: 1000 });
